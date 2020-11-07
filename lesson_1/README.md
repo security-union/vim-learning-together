@@ -18,7 +18,7 @@ Lesson goals:
     1. insert mode
     1. Undo and redo: https://linuxize.com/post/vim-undo-redo/
 
-!(Basic commands)(/lesson_1/images/moving_around.png)
+![Basic commands](/lesson_1/images/moving_around.png)
 
 Bibliography
 Robbins, H. (2008). Learning the vi and Vim Editors, 7th Edition. In Learning the vi and Vim Editors, 7th Edition (7th ed.). O’Reilly Media, Inc.
