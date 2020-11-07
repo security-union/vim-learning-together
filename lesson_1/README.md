@@ -2,17 +2,19 @@ Video Lesson (MUST WATCH): https://youtu.be/9ifU0Hi8p24
 
 Lesson goals:
 
-0. why?
-  0.1 It is available on every linux box.
-  0.2 Speed/productivity: a proficient vim user can move faster than someone that uses a regular text editor.
-1. setup vim.
-  1.1 For Mac OS and Linux users, just open a terminal and type vim.
-  1.2 For Windows, follow https://www.freecodecamp.org/news/vim-windows-install-powershell/
-2. basics
-  2.1 creating a file
-  2.2 open
-  2.3 edition modes
-    2.3.1. command mode
-    2.3.2  insert mode
-  2.4 undo and redo: https://linuxize.com/post/vim-undo-redo/
+1. Why?
+    1. It is available on every linux box.
+    1. Speed/productivity: a proficient vim user can move faster than someone that uses a regular text editor.
+
+1. Setup vim.
+    1. For Mac OS and Linux users, just open a terminal and type vim.
+    1. For Windows, follow https://www.freecodecamp.org/news/vim-windows-install-powershell/
+
+1. basics
+    1. creating a file
+    1. open
+    1. edition modes
+    1. command mode
+    1. insert mode
+    1. Undo and redo: https://linuxize.com/post/vim-undo-redo/
      
