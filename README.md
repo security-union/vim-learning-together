@@ -1,1 +1,1 @@
-# vim-learning-together
+# VIM: Learning together
